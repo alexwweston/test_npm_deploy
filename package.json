@@ -1,0 +1,11 @@
+{
+  "name": "test_npm_deploy",
+  "version": "1.0.0",
+  "description": "test project to see how npm handles a tarred release",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Weston",
+  "license": "ISC"
+}
